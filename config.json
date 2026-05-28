@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cachecync",
+        "uuid": 14120952,
+        "checksum": "gak8hx"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "production"
+    }
+}
